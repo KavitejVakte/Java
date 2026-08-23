@@ -1,6 +1,7 @@
 public class Vari{
     public static void main(String[] args){
         int x=10;
-        System.out.println(x);
+        int year=2024;
+        System.out.println(x + " " + year);
     }
 }
