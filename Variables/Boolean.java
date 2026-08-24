@@ -5,4 +5,4 @@ public class Boolean{
         boolean isOnline = true;
         System.out.println(isJavaFun + " " + isFishTasty + " " + isOnline);
     }
-}
+}  
